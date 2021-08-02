@@ -1,0 +1,35 @@
+[16-Jul-2020 18:44:57 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jul-2020 18:45:10 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[16-Jul-2020 15:45:10 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/cvscompa/public_html/Painel/login/conexao.php:8
+Stack trace:
+#0 /home2/cvscompa/public_html/Painel/login/valida.php(4): include_once()
+#1 {main}
+  thrown in /home2/cvscompa/public_html/Painel/login/conexao.php on line 8
+[27-Jul-2020 01:05:50 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[15-Aug-2020 18:39:11 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[15-Aug-2020 18:39:26 UTC] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20160303
+PHP    compiled with module API=20151012
+These options need to match
+ in Unknown on line 0
+[15-Aug-2020 15:39:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_connect() in /home2/cvscompa/public_html/Painel/login/conexao.php:8
+Stack trace:
+#0 /home2/cvscompa/public_html/Painel/login/valida.php(4): include_once()
+#1 {main}
+  thrown in /home2/cvscompa/public_html/Painel/login/conexao.php on line 8
